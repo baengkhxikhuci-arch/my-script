@@ -1,0 +1,2 @@
+# my-script
+script.lua
